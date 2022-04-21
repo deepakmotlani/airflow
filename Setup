@@ -1,0 +1,4 @@
+
+
+#Steps to create user for airflow webserver
+airflow users create --username dmotlani --firstname Deepak --lastname Motlani --role Admin --email motlani.deepak@gmail.com
